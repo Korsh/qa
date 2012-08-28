@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<site>
+		<backend>
+			<url_live>http://www.benaughty.com/admin</url_live>
+			<url_rel>http://benaughty.rel.redut.net/admin</url_rel>			
+		</backend>
+	</site>
+</config>

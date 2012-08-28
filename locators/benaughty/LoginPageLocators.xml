@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Locator>
+	<Page>
+		<LoginPage>
+			<txt_login>
+				<id>txtLogin</id>
+				<name> </name>
+				<class> </class>
+				<xpath> </xpath>
+			</txt_login>
+			<txt_password>
+				<id>txtPassword</id>
+				<name> </name>
+				<class> </class>
+				<xpath> </xpath>
+			</txt_password>
+			<btn_login>
+				<id> </id>
+				<name> </name>
+				<class>btn</class>
+				<xpath> </xpath>
+			</btn_login>			
+			
+		</LoginPage>
+	</Page>
+</Locator>

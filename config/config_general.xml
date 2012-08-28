@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+	<site>
+		<benaughty>
+			<site_id>8</site_id>
+			<sexuality>trad</sexuality>
+			<url_live>http://www.benaughty.com</url_live>
+			<url_rel>http://benaughty.rel.redut.net</url_rel>			
+		</benaughty>
+	</site>
+</config>

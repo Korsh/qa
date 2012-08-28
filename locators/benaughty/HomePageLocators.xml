@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Locator>
+	<Page>
+		<HomePage>
+			<upgrade type="btn">
+				<id>upgrade_button</id>
+				<name> </name>
+				<class>top_btn</class>
+				<xpath> </xpath>
+			</upgrade>
+		</HomePage>
+	</Page>
+</Locator>

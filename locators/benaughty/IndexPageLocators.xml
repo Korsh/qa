@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Locator>
+	<Page>
+		<IndexPage>
+			<!-- Iframe -->
+			<frm_iframe>
+				<id>lframe</id>
+			</frm_iframe>
+			
+			<!-- Login Form -->
+			<txt_login>
+				<id>txtLogin</id>
+			</txt_login>
+			<txt_password_login>
+				<class>scnd</class>
+			</txt_password_login>
+			<btn_login>
+				<class>loginbtn</class>
+			</btn_login>	
+			
+			<!-- Registration Form -->
+			<ico_male>
+				<class>item man man_woman</class>
+			</ico_male>
+			<ico_female>
+				<class>item womam</class>
+			</ico_female>
+			<ico_couple>
+				<id>mm</id>
+			</ico_couple>
+			<ico_couple_mf>
+				<id>couple</id>
+			</ico_couple_mf>
+			<ico_couple_mm>
+				<id>mm</id>
+			</ico_couple_mm>	
+			<ico_couple_ff>
+				<id>ww</id>
+			</ico_couple_ff>						
+			<cb_birth_day>
+				<id>frmDay</id>
+			</cb_birth_day>
+			<cb_birth_month>
+				<id>frmMonth</id>
+			</cb_birth_month>
+			<cb_birth_year>
+				<id>frmYear</id>
+			</cb_birth_year>
+			<txt_email>
+				<id>"email</id>
+			</txt_email>
+			<txt_password>
+				<id>password</id>
+			</txt_password>
+			<txt_location>
+				<id>location</id>
+			</txt_location>
+			<btn_start>
+				<id>submit_button</id>
+			</btn_start>			
+		</IndexPage>
+	</Page>
+</Locator>
